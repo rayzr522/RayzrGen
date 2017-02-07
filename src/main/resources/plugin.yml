@@ -1,0 +1,12 @@
+main: com.rayzr522.rayzrgen.RayzrGen
+name: RayzrGen
+version: 1.0.0
+description: A random custom world generator that I made for fun.
+author: Rayzr
+#depend: [CreativelyNamedLib]
+#commands:
+#  rayzrgen:
+#    description: RayzrGen main command
+#    aliases: [alias1,alias2]
+#    usage: "/rayzrgen [command]"
+#    permission: RayzrGen.main
